@@ -1,0 +1,1393 @@
+{
+  "name": "dall-e-3",
+  "format": "OpenAI",
+  "version": "3.0",
+  "sku": "Standard",
+  "capacity": 1
+}
+{
+  "name": "dall-e-2",
+  "format": "OpenAI",
+  "version": "2.0",
+  "sku": "Standard",
+  "capacity": 1
+}
+{
+  "name": "code-cushman-fine-tune-002",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "whisper",
+  "format": "OpenAI",
+  "version": "001",
+  "sku": null,
+  "capacity": null
+}
+{
+  "name": "gpt-4",
+  "format": "OpenAI",
+  "version": "0125-Preview",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4",
+  "format": "OpenAI",
+  "version": "1106-Preview",
+  "sku": "ProvisionedManaged",
+  "capacity": null
+}
+{
+  "name": "gpt-4",
+  "format": "OpenAI",
+  "version": "0613",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4-32k",
+  "format": "OpenAI",
+  "version": "0613",
+  "sku": "ProvisionedManaged",
+  "capacity": null
+}
+{
+  "name": "gpt-4",
+  "format": "OpenAI",
+  "version": "turbo-2024-04-09",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4o",
+  "format": "OpenAI",
+  "version": "2024-05-13",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4o",
+  "format": "OpenAI",
+  "version": "2024-08-06",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4o-mini",
+  "format": "OpenAI",
+  "version": "2024-07-18",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4o",
+  "format": "OpenAI",
+  "version": "2024-11-20",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4o-audio-preview",
+  "format": "OpenAI",
+  "version": "2024-12-17",
+  "sku": "Provisioned",
+  "capacity": 100
+}
+{
+  "name": "gpt-4o-mini-audio-preview",
+  "format": "OpenAI",
+  "version": "2024-12-17",
+  "sku": "GlobalStandard",
+  "capacity": 100
+}
+{
+  "name": "gpt-35-turbo",
+  "format": "OpenAI",
+  "version": "0301",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "gpt-35-turbo",
+  "format": "OpenAI",
+  "version": "0613",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "gpt-35-turbo",
+  "format": "OpenAI",
+  "version": "1106",
+  "sku": "GlobalBatch",
+  "capacity": 10
+}
+{
+  "name": "gpt-35-turbo",
+  "format": "OpenAI",
+  "version": "0125",
+  "sku": "Standard",
+  "capacity": 100
+}
+{
+  "name": "gpt-35-turbo-instruct",
+  "format": "OpenAI",
+  "version": "0914",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "gpt-35-turbo-16k",
+  "format": "OpenAI",
+  "version": "0613",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "davinci",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-davinci-002",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-davinci-003",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 60
+}
+{
+  "name": "text-davinci-fine-tune-002",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "code-davinci-002",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "code-davinci-fine-tune-002",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "babbage",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-babbage-001",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "ada",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-ada-001",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-similarity-ada-001",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-embedding-ada-002",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-embedding-ada-002",
+  "format": "OpenAI",
+  "version": "2",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "curie",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-curie-001",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-similarity-curie-001",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-embedding-3-small",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "text-embedding-3-large",
+  "format": "OpenAI",
+  "version": "1",
+  "sku": "Standard",
+  "capacity": 120
+}
+{
+  "name": "o1-mini",
+  "format": "OpenAI",
+  "version": "2024-09-12",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "o1",
+  "format": "OpenAI",
+  "version": "2024-12-17",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "o3-mini",
+  "format": "OpenAI",
+  "version": "2025-01-31",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "o4-mini",
+  "format": "OpenAI",
+  "version": "2025-04-16",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4.1",
+  "format": "OpenAI",
+  "version": "2025-04-14",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4.1-mini",
+  "format": "OpenAI",
+  "version": "2025-04-14",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-4.1-nano",
+  "format": "OpenAI",
+  "version": "2025-04-14",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5",
+  "format": "OpenAI",
+  "version": "2025-08-07",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5-mini",
+  "format": "OpenAI",
+  "version": "2025-08-07",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5-chat",
+  "format": "OpenAI",
+  "version": "2025-08-07",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5-nano",
+  "format": "OpenAI",
+  "version": "2025-08-07",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5-codex",
+  "format": "OpenAI",
+  "version": "2025-09-15",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5-chat",
+  "format": "OpenAI",
+  "version": "2025-10-03",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5-pro",
+  "format": "OpenAI",
+  "version": "2025-10-06",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.1",
+  "format": "OpenAI",
+  "version": "2025-11-13",
+  "sku": "Standard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.1-chat",
+  "format": "OpenAI",
+  "version": "2025-11-13",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.1-codex-mini",
+  "format": "OpenAI",
+  "version": "2025-11-13",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.1-codex",
+  "format": "OpenAI",
+  "version": "2025-11-13",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.2",
+  "format": "OpenAI",
+  "version": "2025-12-11",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.2-chat",
+  "format": "OpenAI",
+  "version": "2025-12-11",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.2-codex",
+  "format": "OpenAI",
+  "version": "2026-01-14",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.2-chat",
+  "format": "OpenAI",
+  "version": "2026-02-10",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.3-codex",
+  "format": "OpenAI",
+  "version": "2026-02-24",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.3-chat",
+  "format": "OpenAI",
+  "version": "2026-03-03",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.4",
+  "format": "OpenAI",
+  "version": "2026-03-05",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.4-nano",
+  "format": "OpenAI",
+  "version": "2026-03-17",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.4-mini",
+  "format": "OpenAI",
+  "version": "2026-03-17",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-5.5",
+  "format": "OpenAI",
+  "version": "2026-04-24",
+  "sku": "ProvisionedManaged",
+  "capacity": null
+}
+{
+  "name": "AI21-Jamba-1.5-Large",
+  "format": "AI21 Labs",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "AI21-Jamba-1.5-Mini",
+  "format": "AI21 Labs",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "AI21-Jamba-Instruct",
+  "format": "AI21 Labs",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "qwen3-32b",
+  "format": "Alibaba",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 50
+}
+{
+  "name": "Codestral-2501",
+  "format": "Mistral AI",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "cohere-command-a",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 100
+}
+{
+  "name": "Cohere-command-r",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Cohere-command-r-08-2024",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Cohere-command-r-plus",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Cohere-command-r-plus-08-2024",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Cohere-embed-v3-english",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Cohere-embed-v3-multilingual",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "DeepSeek-R1",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "DeepSeek-R1-0528",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "DeepSeek-V3",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "DeepSeek-V3-0324",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "DeepSeek-V3.1",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "embed-v-4-0",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 15000
+}
+{
+  "name": "jais-30b-chat",
+  "format": "Core42",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "jais-30b-chat",
+  "format": "Core42",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "jais-30b-chat",
+  "format": "Core42",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.2-11B-Vision-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.2-11B-Vision-Instruct",
+  "format": "Meta",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.2-90B-Vision-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.2-90B-Vision-Instruct",
+  "format": "Meta",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.2-90B-Vision-Instruct",
+  "format": "Meta",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.3-70B-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.3-70B-Instruct",
+  "format": "Meta",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.3-70B-Instruct",
+  "format": "Meta",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.3-70B-Instruct",
+  "format": "Meta",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-3.3-70B-Instruct",
+  "format": "Meta",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "Llama-3.3-70B-Instruct",
+  "format": "Meta",
+  "version": "9",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "MAI-DS-R1",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "Meta-Llama-3-70B-Instruct",
+  "format": "Meta",
+  "version": "6",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-70B-Instruct",
+  "format": "Meta",
+  "version": "7",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-70B-Instruct",
+  "format": "Meta",
+  "version": "8",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-70B-Instruct",
+  "format": "Meta",
+  "version": "9",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-8B-Instruct",
+  "format": "Meta",
+  "version": "6",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-8B-Instruct",
+  "format": "Meta",
+  "version": "7",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-8B-Instruct",
+  "format": "Meta",
+  "version": "8",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3-8B-Instruct",
+  "format": "Meta",
+  "version": "9",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-405B-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-70B-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-70B-Instruct",
+  "format": "Meta",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-70B-Instruct",
+  "format": "Meta",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-70B-Instruct",
+  "format": "Meta",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-8B-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-8B-Instruct",
+  "format": "Meta",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-8B-Instruct",
+  "format": "Meta",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-8B-Instruct",
+  "format": "Meta",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Meta-Llama-3.1-8B-Instruct",
+  "format": "Meta",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Ministral-3B",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Mistral-large",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Mistral-large-2407",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Mistral-Large-2411",
+  "format": "Mistral AI",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Mistral-Nemo",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Mistral-small",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "mistral-small-2503",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Mistral-Large-3",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "Phi-3-medium-128k-instruct",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-128k-instruct",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-128k-instruct",
+  "format": "Microsoft",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-128k-instruct",
+  "format": "Microsoft",
+  "version": "6",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-128k-instruct",
+  "format": "Microsoft",
+  "version": "7",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-4k-instruct",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-4k-instruct",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-4k-instruct",
+  "format": "Microsoft",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-medium-4k-instruct",
+  "format": "Microsoft",
+  "version": "6",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-128k-instruct",
+  "format": "Microsoft",
+  "version": "10",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-128k-instruct",
+  "format": "Microsoft",
+  "version": "11",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-128k-instruct",
+  "format": "Microsoft",
+  "version": "12",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-128k-instruct",
+  "format": "Microsoft",
+  "version": "13",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-4k-instruct",
+  "format": "Microsoft",
+  "version": "10",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-4k-instruct",
+  "format": "Microsoft",
+  "version": "11",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-4k-instruct",
+  "format": "Microsoft",
+  "version": "13",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-4k-instruct",
+  "format": "Microsoft",
+  "version": "14",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-mini-4k-instruct",
+  "format": "Microsoft",
+  "version": "15",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-small-128k-instruct",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-small-128k-instruct",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-small-128k-instruct",
+  "format": "Microsoft",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-small-8k-instruct",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-small-8k-instruct",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3-small-8k-instruct",
+  "format": "Microsoft",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-mini-instruct",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-mini-instruct",
+  "format": "Microsoft",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-mini-instruct",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-mini-instruct",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-mini-instruct",
+  "format": "Microsoft",
+  "version": "6",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-MoE-instruct",
+  "format": "Microsoft",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-MoE-instruct",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-MoE-instruct",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-MoE-instruct",
+  "format": "Microsoft",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-vision-instruct",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-3.5-vision-instruct",
+  "format": "Microsoft",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4",
+  "format": "Microsoft",
+  "version": "2",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4",
+  "format": "Microsoft",
+  "version": "3",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4",
+  "format": "Microsoft",
+  "version": "4",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4",
+  "format": "Microsoft",
+  "version": "5",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4",
+  "format": "Microsoft",
+  "version": "6",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4",
+  "format": "Microsoft",
+  "version": "7",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4-mini-instruct",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4-multimodal-instruct",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4-reasoning",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Phi-4-mini-reasoning",
+  "format": "Microsoft",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "Llama-4-Scout-17B-16E-Instruct",
+  "format": "Meta",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "mistral-medium-2505",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "mistral-document-ai-2505",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "grok-3",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "grok-3-mini",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "FLUX-1.1-pro",
+  "format": "Black Forest Labs",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "FLUX.1-Kontext-pro",
+  "format": "Black Forest Labs",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "grok-4-fast-reasoning",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "grok-4-fast-non-reasoning",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "gpt-oss-120b",
+  "format": "OpenAI-OSS",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 500
+}
+{
+  "name": "gpt-oss-20b",
+  "format": "OpenAI-OSS",
+  "version": "11",
+  "sku": "GlobalStandard",
+  "capacity": 50
+}
+{
+  "name": "Kimi-K2-Thinking",
+  "format": "MoonshotAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 500
+}
+{
+  "name": "Cohere-rerank-v4.0-pro",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 500
+}
+{
+  "name": "Cohere-rerank-v4.0-fast",
+  "format": "Cohere",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 500
+}
+{
+  "name": "DeepSeek-V3.2-Speciale",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "DeepSeek-V3.2",
+  "format": "DeepSeek",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "FLUX.2-pro",
+  "format": "Black Forest Labs",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "Kimi-K2.5",
+  "format": "MoonshotAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 500
+}
+{
+  "name": "mistral-document-ai-2512",
+  "format": "Mistral AI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 1
+}
+{
+  "name": "grok-4-1-fast-reasoning",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "grok-4-1-fast-non-reasoning",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "grok-4-20-non-reasoning",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "grok-4-20-reasoning",
+  "format": "xAI",
+  "version": "1",
+  "sku": "GlobalStandard",
+  "capacity": 10
+}
+{
+  "name": "Kimi-K2.6",
+  "format": "MoonshotAI",
+  "version": "2026-04-20",
+  "sku": "GlobalStandard",
+  "capacity": 500
+}
+{
+  "name": "DeepSeek-V4-Flash",
+  "format": "DeepSeek",
+  "version": "2026-04-23",
+  "sku": "GlobalStandard",
+  "capacity": 5000
+}
+{
+  "name": "MAI-Image-2",
+  "format": "Microsoft",
+  "version": "2026-02-20",
+  "sku": "Provisioned",
+  "capacity": 0
+}
+{
+  "name": "MAI-Image-2e",
+  "format": "Microsoft",
+  "version": "2026-04-09",
+  "sku": "GlobalStandard",
+  "capacity": 18
+}
