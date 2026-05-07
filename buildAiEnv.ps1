@@ -117,6 +117,3 @@ if ($response.StatusCode -eq "200") {
 } else {
    Write-Host "deployment of agent errored" -Foregroundcolor Red
   }
-  
-  
-  # need to add model deployment for the project
