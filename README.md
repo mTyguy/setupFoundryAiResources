@@ -9,15 +9,15 @@ TO DO:
 4) Give creator more options for what model they would like to use.
 
 5) let Creator define the capabilities/tools of the agent
-    a) Websearch
-    b) file search
-    c) foundryIQ connection
-    d) other connections?
+5a) Websearch
+5b) file search
+5c) foundryIQ connection
+5d) other connections?
 
 6) ???
 
 Other Things:
-a) More error recording
-b) Diagnostics exporting
+1) More error recording
+2) Diagnostics exporting
 
 
