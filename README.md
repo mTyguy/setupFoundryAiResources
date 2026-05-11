@@ -9,9 +9,13 @@ TO DO:
 4) Give creator more options for what model they would like to use.
 
 5) let Creator define the capabilities/tools of the agent
+
 5a) Websearch
+
 5b) file search
+
 5c) foundryIQ connection
+
 5d) other connections?
 
 6) ???
